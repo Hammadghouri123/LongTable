@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: linear-gradient(to right,rgba(98,85,199,255),rgba(189,80,192,255));
+}
+table{
+    
+    margin-top: 50px;
+    margin-left: 20%;
+    text-align: center; 
+    width: 60%;
+    border-collapse: collapse;
+    box-shadow: 30px 30px 90px  rgb(54, 52, 52);
+    border-radius: 10px;
+    overflow: hidden;
+   
+}
+.two>td{
+    
+    color:whitesmoke;
+    background-color: rgba(55,48,73,255);
+    height: 40px;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.three{
+    background-color:rgb(146, 133, 179) ;
+    width: 90px;
+    height: 30px;
+    color: whitesmoke;
+    
+}
+tbody{
+    background-color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.four{
+    background-color: rgb(206, 204, 204);
+}
+
+.four:hover{
+    font-size: 23px;
+    background-color: whitesmoke;
+    color: rgb(54, 52, 52);
+
+}
+.five:hover{
+    font-size: 23px;
+    background-color: rgb(206, 204, 204);
+    color: rgb(54, 52, 52);
+}
